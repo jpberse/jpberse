@@ -4,7 +4,7 @@
   </ul>
 </div>
 
-### 👨🏻‍💻 &nbsp;About Me
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmk4MmVieXBsMG45bjIzcmpnbGwwODZhMnBiMWh2OWw2N3k0em5tdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/i0HhgCcJE3GM8KGy4g/giphy.gif" alt="About me icon" width="25"><b> About me<b/>
 
 - 😎 &nbsp; Front-end Developer from Chile
 - 🌱 &nbsp; Focused on expanding my knowledge and contributing to exciting projects. Let's connect!
